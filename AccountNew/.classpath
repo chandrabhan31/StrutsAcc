@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.genuitec.eclipse.j2eedt.core.J2EE14_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/DataPool"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_1_CORE"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/struts-2.1.6/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/struts-2.1.6/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/struts-2.1.6/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/struts-2.1.6/freemarker-2.3.13.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/struts-2.1.6/ognl-2.6.11.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/struts-2.1.6/struts2-core-2.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/struts-2.1.6/struts2-dojo-plugin-2.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/struts-2.1.6/xwork-2.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/Tiles Jars/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/Tiles Jars/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/Tiles Jars/struts2-tiles-plugin-2.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/Tiles Jars/tiles-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/Tiles Jars/tiles-core-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/Tiles Jars/tiles-jsp-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/junit-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/activation.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/smtp.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/Spring Jars/spring-test-2.5.6.jar"/>
+	<classpathentry kind="lib" path="F:/Imp Jars. Don&apos;t Move this Folder/Spring Jars/struts2-spring-plugin-2.1.6.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
